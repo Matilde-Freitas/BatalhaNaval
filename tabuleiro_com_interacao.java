@@ -6,7 +6,10 @@ import java.util.Scanner;
 
 public class tabuleiro_com_interacao
 {
-	// 	PROBLEMA NA CONTAGEM DE NAVIOS AFUNDADOS
+	// 	PROBLEMAS: 
+	//	-CONTAGEM DE NAVIOS AFUNDADOS;
+	//	-CRIAÇÃO DE NAVIOS NÃO É SEQUENCIAL, É COMPLETAMENTE ALEATÓRIA (NÃO APARECEM GARANTIDAMENTE UM DE CADA TIPO)
+	//	
 	
 	public static void main(String[] args)
 	{
