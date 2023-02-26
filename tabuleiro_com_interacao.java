@@ -9,7 +9,7 @@ public class tabuleiro_com_interacao
 	// 	PROBLEMAS: 
 	//	-CONTAGEM DE NAVIOS AFUNDADOS;
 	//	-CRIAÇÃO DE NAVIOS NÃO É SEQUENCIAL, É COMPLETAMENTE ALEATÓRIA (NÃO APARECEM GARANTIDAMENTE UM DE CADA TIPO)
-	//	
+	//	-NA COLOCAÇÃO DE NAVIOS, NÃO PARA AO FIM DE 100 TENTATIVAS
 	
 	public static void main(String[] args)
 	{
