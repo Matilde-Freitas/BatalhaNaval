@@ -19,7 +19,7 @@ public class tabuleiro_com_interacao
 		char ship = 'S';
 		char hit = 'X';
 		char miss = 'o';
-		int navios = 1;
+		int navios = 4;
 		int navios_colocados = 0;
 		int max_shot = 5;
 		boolean val_jogo = true;
